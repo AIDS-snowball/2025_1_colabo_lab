@@ -51,10 +51,8 @@ streamlit run app.py
 추론 결과와 일반화 성능 그리고 필드 테스트의 안정성을 고려하여 GCN with focal loss 모델로 결정
 
 > go to [model_train](./model_train)
-> 
-> data.csv: what we made
-> 
-> GCN.ipynb: model(GCN) training code
+> * data.csv: what we made
+> * GCN.ipynb: model(GCN) training code
 
 ### 웹사이트 구현
 streamlit를 활용해 익숙한 파이썬을 통해 웹사이트 제작.
