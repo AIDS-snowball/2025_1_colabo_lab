@@ -60,7 +60,17 @@ streamlit를 활용해 익숙한 파이썬을 통해 웹사이트 제작.
 
 ## 프로그램 소개
 1. 시작 페이지: 체험자에 맞게 카메라 세팅
+
+![image](https://github.com/user-attachments/assets/3ca70fc6-993d-4046-a54c-891d005f6b84)
+
 2. 게임 시작을 클릭하면 맞춰야하는 동작이 나오고 동작이 일치하는지 판별한다.
   - 동작이 일치하면 풍선이 올라오고 다음 스테이지
   - 제한시간이 지나거나 동작이 일치하면 동영상 재생
+    
+
+![image](https://github.com/user-attachments/assets/a352c6c6-d4e7-4e72-a934-090eb93413a8)
+
+
+![image](https://github.com/user-attachments/assets/b23ff13e-d547-4fba-b3ed-99e1331ecb89)
+
 3. 2를 반복
